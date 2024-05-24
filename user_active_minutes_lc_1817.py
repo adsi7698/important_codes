@@ -15,6 +15,3 @@ class Solution:
             result[value[1]-1] += 1
 
         return result
-
-
-        
